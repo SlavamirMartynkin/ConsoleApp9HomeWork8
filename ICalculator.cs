@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson_005_Delegate
+namespace ConsoleApp8HomeWork7
 {
     internal interface ICalculator
     {

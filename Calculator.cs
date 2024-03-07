@@ -5,7 +5,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson_005_Delegate
+namespace ConsoleApp8HomeWork7
 {
     internal class Calculator : ICalculator
     {
